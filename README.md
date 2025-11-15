@@ -22,6 +22,11 @@ Built with React and Material UI, it supports **Create, Read, Update, Delete** (
 
 ![Notes Buddy Main Grid](images/image.jpg)
 
+### NotesBuddy Create new Note
+
+![Notes Buddy Main Grid](images/image1.jpg)
+
+
 ### Delete Confirmation Dialog
 
 ![Delete Confirmation Dialog](images/image2.jpg)
